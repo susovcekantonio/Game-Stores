@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Game Stores</string>
+    <string name="titleText">Gaming stores</string>
+    <string name="storeDescriptionButton">ABOUT</string>
+    <string name="searchGame">GAMES</string>
+    <string name="searchButton">SEARCH</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="steamText">Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a
+        way for Valve to provide automatic updates for their games and expanded to distributing and offering third-party game publishers titles in late 2005.
+        Steam offers various features like digital rights management DRM game server matchmaking and anti-cheat measures and social networking and game streaming
+        services. It provides the user with automatic game updating saved game cloud synchronization and community features such as friends messaging in-game chat
+        and a community market.</string>
+    <string name="steamTitle">STEAM</string>
+    <string name="epicText">Epic Games, Inc. is an American video game and software developer and publisher based in Cary, North Carolina. The company was founded
+        by Tim Sweeney as Potomac Computer Systems in 1991, originally located in his parents house in Potomac, Maryland.Epic Games develops Unreal Engine,
+        a commercially available game engine which also powers their internally developed video games,
+        such as Fortnite and the Unreal, Gears of War and Infinity Blade series.</string>
+    <string name="epicTitle">EPIC</string>
+    <string name="originText">The Origin store allows users to browse and purchase games from Electronic Arts catalogs. Instead of receiving a box, disc, or even CD key,
+        purchased software is immediately attached to the users Origin account and is to be downloaded with the corresponding Origin client.
+        Origin guarantees download availability forever after purchase, and there is no limit to the number of times a game can be downloaded.</string>
+    <string name="originTitle">ORIGIN</string>
+</resources>
